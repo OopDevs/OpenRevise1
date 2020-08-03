@@ -23,7 +23,7 @@
 
 1. Use the following link to open the Github repository.
 
-   https://github.com/OpenRevise/OpenRevise.github.io
+   https://github.com/OopDevs/OpenRevise1
 
 2. Click `Clone or download`.
 
